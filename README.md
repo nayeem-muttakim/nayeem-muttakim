@@ -12,4 +12,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nayeem-muttakim/)
    
-   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nayeem-muttakim/langs)](https://githubtrends.io)
