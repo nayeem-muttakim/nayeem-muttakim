@@ -1,8 +1,17 @@
 ![banner](./photos/gitBanner.png)
 
-# ABout me
+#                          About me
 
 ### Looking forward to unlock potential abilities. I want to push myself to the limits. I want to see myself as a Senior Web Developer in 2 years
+### Contact with me : :email: nohanmuttakim.bd@gmail.com  
+
+
+# Things I Work with
+
+### Frontend : HTML/CSS/JS,Responsive Design,Tailwind CSS,JS DOM manipulation,React,Git
+### Backend:Node JS,MongoDB,API,Authentication and Authorization
+### Additional : npm,basic design knowledge
+
 
 ## :bar_chart: Current Stats
 
