@@ -10,5 +10,6 @@
 
 ## Socials
 
+[![My Skills](./photos/email.jpg)](nohanmuttakim.bd@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nayeem-muttakim/)
    
