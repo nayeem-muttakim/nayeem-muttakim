@@ -1,4 +1,4 @@
-![banner](./photos/gitBanner.jpg)
+![banner](./photos/gitBanner.png)
 
 # Current Stats
 
